@@ -1,0 +1,118 @@
+canonical_identifier: bkk:krp/KR6i0238/X/v1
+canonical_location: https://kanripo.org/bkk/KR6i0238/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 大梵天王問佛決疑經
+  identifiers:
+    krp: KR6i0238
+    cbeta: X01n0027
+    cbeta_old_id: X01n0027
+    authorityid: CA0000579
+    json_key: X0027
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X01/X01n0027.xml
+    old_id: X01n0027
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0238_000-X.yaml, hash: 'sha256:628cd7e2b1b7a22b8ad81793f26e2b7cce092cd59dc4985acb15a4fdbb1bd8c9'}
+  - {seq: 1, filename: KR6i0238_001-X.yaml, hash: 'sha256:9fe35c74286062c9a6e85709211b4d95126f0b3b917348ea18c9bb4ef0229a09'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6i0238_000-X.markers.yaml, hash: 'sha256:57ae3be4cc3366539f1a721a08229e4e1c9eeb20e6bd3993ede131bfb8e421a4'}
+  - {seq: 1, role: markers, filename: assets/KR6i0238_001-X.markers.yaml, hash: 'sha256:6ce28492a8adfb1e64bfe4abf18fa6098a8a50c94a4791e4180053896c565232'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6i0238_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 目次
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0238_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 18745
+  label: 大梵天王問佛決疑經
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0238_X_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 序品第一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0238_X_001-mulu-2
+    span:
+    - body
+    - 1005
+    - 1005
+  label: 拈華品第二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0238_X_001-mulu-3
+    span:
+    - body
+    - 3808
+    - 3808
+  label: 月輪品第三
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0238_X_001-mulu-4
+    span:
+    - body
+    - 5108
+    - 5108
+  label: 法界品第四
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0238_X_001-mulu-5
+    span:
+    - body
+    - 7393
+    - 7393
+  label: 六大品第五
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0238_X_001-mulu-6
+    span:
+    - body
+    - 8712
+    - 8712
+  label: 降魔品第六
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0238_X_001-mulu-7
+    span:
+    - body
+    - 12605
+    - 12605
+  label: 往生品第七
+  type: mulu
+  level: 1
+hash: sha256:a2b1d2c31242be85686d0464235fb4fde188c39b64c6d89890a53bfe92bd6c38

@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6i0238/x/v1/juan/0
+seq: 0
+front:
+  text: 大梵天王問佛決疑經目次序品第一拈華品第二月輪品第三法界品第四六大品第五降魔品第六往生品第七
+  hash: sha256:18a66b080cbc6c08dfdac509b790de9991f96012e824fa5063b2c9e0e23d3f6b
+  markers:
+  - {type: 其他, offset: 0, content: 目次, id: KR6i0238_X_000-mulu-1, level: '1'}
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 大梵天王問佛決疑經
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X01/X01n0027.xml
+    old_id: X01n0027
+hash: sha256:628cd7e2b1b7a22b8ad81793f26e2b7cce092cd59dc4985acb15a4fdbb1bd8c9
