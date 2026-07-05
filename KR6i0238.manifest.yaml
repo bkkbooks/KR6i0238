@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6i0238_000.yaml, hash: 'sha256:628cd7e2b1b7a22b8ad81793f26e2b7cce092cd59dc4985acb15a4fdbb1bd8c9'}
-  - {seq: 1, filename: KR6i0238_001.yaml, hash: 'sha256:e0239abb585013c48ca5438cc92ff4312e46da5fd35cdae980f344b723edbdef'}
+  - {seq: 1, filename: KR6i0238_001.yaml, hash: 'sha256:9fe35c74286062c9a6e85709211b4d95126f0b3b917348ea18c9bb4ef0229a09'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6i0238_001.markers.yaml, hash: 'sha256:957dc86363069e476c760da4056b79b6f998b0389db44e8c4b2b48d9433a4ce6'}
+  - {seq: 0, role: markers, filename: assets/KR6i0238_000.markers.yaml, hash: 'sha256:5d0ae5630f6503b8297b91503f5939d73990e93f15b4254ac6f7581d1f8e4275'}
+  - {seq: 1, role: markers, filename: assets/KR6i0238_001.markers.yaml, hash: 'sha256:cd2d6889400c0cd39cc82a280a5027acc23e72e34e6f9e7ec09ad4802cdab734'}
 table_of_contents:
 - ref:
     seq: 0
@@ -116,7 +117,4 @@ table_of_contents:
   label: 往生品第七
   type: mulu
   level: 1
-hash: sha256:206a8a61a4842134e5ac37396570c21f130906c49b148e45faf4d25e47f325f3
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:269a4350c685055c78472eb20c31e85b3353cfba7840732c18d06eddf7603670
