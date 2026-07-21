@@ -19,17 +19,17 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6i0238_000-X.yaml, hash: 'sha256:628cd7e2b1b7a22b8ad81793f26e2b7cce092cd59dc4985acb15a4fdbb1bd8c9'}
+  - {seq: 0, filename: KR6i0238_000-X.yaml, hash: 'sha256:bdf2d7fadeb44204c688aac5d412218409544e45a4bc99fb86a6357021f49a39'}
   - {seq: 1, filename: KR6i0238_001-X.yaml, hash: 'sha256:9fe35c74286062c9a6e85709211b4d95126f0b3b917348ea18c9bb4ef0229a09'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6i0238_000-X.markers.yaml, hash: 'sha256:57ae3be4cc3366539f1a721a08229e4e1c9eeb20e6bd3993ede131bfb8e421a4'}
+  - {seq: 0, role: markers, filename: assets/KR6i0238_000-X.markers.yaml, hash: 'sha256:ef8eb12b08e83297a29c568c72a0a5f1b368ba8a34825238d40f600ee1f8214e'}
   - {seq: 1, role: markers, filename: assets/KR6i0238_001-X.markers.yaml, hash: 'sha256:6ce28492a8adfb1e64bfe4abf18fa6098a8a50c94a4791e4180053896c565232'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6i0238_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 目次
@@ -115,4 +115,4 @@ table_of_contents:
   label: 往生品第七
   type: mulu
   level: 1
-hash: sha256:a2b1d2c31242be85686d0464235fb4fde188c39b64c6d89890a53bfe92bd6c38
+hash: sha256:48607261802673e8ebe195c9a96d19b5217a6c7ad2144247bebddec61dc996d9
